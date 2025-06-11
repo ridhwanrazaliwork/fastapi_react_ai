@@ -34,10 +34,10 @@ This project is part of my personal learning journey to understand how to build,
 
 Here’s how the app looks:
 
-![Home Page](./screenshots/home.jpg)  
+![Home Page](./image.png)  
 
 
-![Auth Page](./screenshots/auth.jpg)  
+![History Page](./image2.png)  
 
 ---
 
