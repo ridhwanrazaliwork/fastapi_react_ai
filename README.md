@@ -1,4 +1,4 @@
-# 🚀 fastapi_react_ai
+# 🚀 fastapi_react_ai 🚧 **In Progress**  
 
 A full-stack AI-powered web app built with FastAPI and React.  
 This project is part of my personal learning journey to understand how to build, integrate, and deploy modern web applications combining AI, frontend, backend, and authentication systems.
